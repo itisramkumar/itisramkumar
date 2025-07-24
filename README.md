@@ -51,7 +51,7 @@
 <div align="center">
 
   <a href="mailto:rajiniram49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ramkumar%40example.com-blue?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-rajiniram49@gmail.com-blue?style=for-the-badge&logo=gmail"/>
   </a>
 
   <a href="https://linkedin.com/in/ramkumar47" target="_blank">
