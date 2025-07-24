@@ -58,8 +58,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://github.com/itisramkumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+   <a href="https://www.instagram.com/ramrajini49/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
 </div>
